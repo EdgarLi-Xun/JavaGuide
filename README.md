@@ -1,20 +1,3 @@
-> JavaGuide 的Star数量虽然比较多，但是它的价值和含金量一定是不能和 Dubbo、Nacos这些优秀的国产开源项目比的。希望国内可以出更多优秀的开源项目！
->
-> 另外，希望大家对面试不要抱有侥幸的心理，打铁还需自身硬！  我希望这个文档是为你学习  Java 指明方向，而不是用来应付面试用的。加油！奥利给！
-
-**开始阅读之前必看** ：
-
-1. [完结撒花！JavaGuide面试突击版来啦！](./docs/javaguide面试突击版.md)
-2. [JavaGuide重大更新记录](./docs/update-history.md)
-
-更多原创内容和干货分享：
-
-1. [公众号—JavaGuide](#公众号) ： 最新原创文章+免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源）
-2. [微信](#联系我) ：如果需要和我交流的话可以加我私人微信(ps: 有问题的话也可以问，我会尽量回答大家，我很随和的，哈哈！另外，账号快加满了)
-3. [B站-Guide哥](https://space.bilibili.com/504390397)：（各种干货视频和生活向视频，来个一键三连可好！）
-4.  [知识星球—JavaGuide读者圈](https://javaguide.cn/2019/01/02/chat/%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BE%88%E4%B9%85%E6%B2%A1%E6%95%A2%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85/)
-
-Github用户如果访问速度缓慢的话，可以转移到[码云](https://gitee.com/SnailClimb/JavaGuide )查看，或者[在线阅读](https://snailclimb.gitee.io/javaguide )。
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
